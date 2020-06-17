@@ -1,6 +1,6 @@
 <template>
 <div>
-    联网组织.....
+    联网组织..794455
 </div>
 </template>
 
