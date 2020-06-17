@@ -1,6 +1,6 @@
 <template>
     <div>
-        校园组织sghdjnkm
+        校园组织47956
     </div>
 </template>
 <script>
