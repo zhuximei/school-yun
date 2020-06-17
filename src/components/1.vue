@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    林杰组织
+    林杰组织....
   </div>
 </template>
 
