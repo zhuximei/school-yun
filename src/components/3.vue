@@ -1,6 +1,6 @@
 <template>
     <div>
-        校园组织79862
+        校园组织47956
     </div>
 </template>
 <script>
